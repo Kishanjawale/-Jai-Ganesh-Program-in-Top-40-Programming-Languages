@@ -2,3 +2,6 @@
 2.CPP
 3.JAVA
 4.Python
+5.C#
+6.Javascript
+7.PHP
